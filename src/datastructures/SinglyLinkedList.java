@@ -1,4 +1,4 @@
-package org.learn_data_structures_implementation;
+package datastructures;
 
 public class SinglyLinkedList<T> {
     //head node of the linked list
